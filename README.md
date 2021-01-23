@@ -1,5 +1,5 @@
 # Olá, Mundo ! 
- primeiro repositorio git e github
+ primeiro repositorio git e github :octocat:
 
  repositório criado durante uma aula ao vivo
  
